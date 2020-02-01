@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Intent</string>
+    <string name="menu_name">Menu Name</string>
+</resources>
